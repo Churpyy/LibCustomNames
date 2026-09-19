@@ -187,3 +187,4 @@ n["@Fetiche14401"] = {"Fetiche14401", "|ca649b6F|r|ca543bbe|r|ca53cbft|r|ca535c4
 n["@Kruglikw"] = {"Kruglik", "|c37c9b6K|r|c42d2a5r|r|c4ddb95u|r|c57e484g|r|c62ed74l|r|c6df663i|r|c78ff53k|r"}
 n["@zVidaa"] = {"zVidaa", "|c26c0c7z|r|c35a3c9V|r|c4487cbi|r|c536bccd|r|c624ecea|r|c7132d0a|r"}
 n["@Shenorbyl"] = {"sheno", "|cff860csheno|r"}
+n["@YohkoJo'Riko"] = {"YohkoJo'Riko", "|c69b1c3Y|r|c709cc3o|r|c7788c3h|r|c7e73c4k|r|c855fc4o|r|c8c4ac4J|r|c883abfo|r|c7b2fb6'|r|c6e23acR|r|c6117a2i|r|c540c99k|r|c47008fo|r"}
